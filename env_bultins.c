@@ -1,6 +1,6 @@
 /*
  * File: env_builtins.c
- * Auth: Divine & Nobert
+ * Auth: Korede & Francis
  */
 #include "shell.h"
 

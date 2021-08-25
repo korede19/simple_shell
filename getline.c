@@ -1,7 +1,7 @@
 /*
  * File: getline.c
- * Authors: Ukonu Divine Chisom
- *          Nobert Patrick
+ * Authors: Oyeyemi Korede
+ *          Emediong Francis
  */
 
 #include "shell.h"

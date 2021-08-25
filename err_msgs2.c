@@ -8,7 +8,7 @@ char *error_127(char **args);
  * @args: An array of arguments passed to the command.
  *
  * Return: The error string.
- */
+*/
 char *error_126(char **args)
 {
 	char *error, *hist_str;
