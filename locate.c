@@ -1,4 +1,4 @@
-/*
+/*  
  * File: locate.c
  * Authors: Oyeyemi korede
  *          Emediong francis
