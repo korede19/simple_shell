@@ -1,4 +1,4 @@
-/*
+/*  
  * File: split.c
  * Authors: Ukonu, Divine Chisom
  *          Nobert Patrick
