@@ -1,4 +1,4 @@
-## Description :speech_balloon:
+## Description :speech_balloon: :smile:
 
 **Shellby** is a simple UNIX command language interpreter that reads commands from either a file or standard input and executes them.
 
